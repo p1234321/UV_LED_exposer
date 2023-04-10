@@ -1,0 +1,14 @@
+02-13 19:22:29 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 378:Plugin executed on: 'darwin'
+02-13 19:22:29 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 379:Plugin executed with python version: '3.8.2 (v3.8.2:7b3ab5921f, Feb 24 2020, 17:52:18) \n[Clang 6.0 (clang-600.0.57)]'
+02-13 19:22:29 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 380:KiCad build version: (6.0.1-0)
+02-13 19:22:29 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 381:Plugin version: 1.1.0
+02-13 19:22:29 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 382:Frame repr: None
+02-13 19:22:29 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+02-13 19:22:30 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 559:Reference designator is: H
+02-13 19:22:30 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 560:Reference number is: 5
+02-13 19:22:30 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 592:Sorted and filtered list:
+['H1', 'H2', 'H3', 'H4', 'H5', 'H6', 'H7', 'H8', 'H9']
+02-13 19:22:41 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 628:Footprints to place:
+['H5', 'H6', 'H7', 'H8', 'H9']
+02-13 19:22:41 com_github_MitjaNemec_PlaceFootprints.place_footprints 283:Starting placing with linear layout
+02-13 19:22:41 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 666:Placing complete
